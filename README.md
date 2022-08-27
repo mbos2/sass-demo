@@ -12,6 +12,9 @@
 - Run `npm install` command
 - Start typing SASS
 
+## To install NPM globally
+In your terminal, run `npm install -g npm` command after Node.JS is installed
+
 ## Read More
 
 [Git](https://www.w3schools.com/git/)
