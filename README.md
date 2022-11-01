@@ -11,6 +11,7 @@
 - In your terminal go to the root of the project
 - Run `npm install` command
 - Start typing SASS
+- To compile SASS into CSS run `npm run compile` command in your project terminal
 
 ## To install NPM globally
 In your terminal, run `npm install -g npm` command after Node.JS is installed
