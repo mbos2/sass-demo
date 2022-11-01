@@ -7,7 +7,8 @@
 ## How to use this demo project
 
 - [Install Node.JS](https://nodejs.org/en/download/)
-- Clone this repository with `git clone` command
+- Clone this repository with `git clone https://github.com/mbos2/sass-demo.git` command
+  - You need to have git installed on your computer to do so
 - In your terminal go to the root of the project
 - Run `npm install` command
 - Start typing SASS
